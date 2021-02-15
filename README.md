@@ -15,6 +15,8 @@
 修改前端项目下的 index.html 第87行，把79 - 477行js使用https://www.sojson.com/charEncode.html加密，选择纯js加密然后替换
 
 把前端项目拖进去发行 - 原生APP云打包
+
+
 ------------演示地址已到期------
 项目演示网址:http://121.36.194.103/admin/common/login.shtml
 账号 jia110 密码123
